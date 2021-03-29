@@ -1,8 +1,12 @@
 
 # Schedule
 
-- [ ] 决策树
+- [x] 决策树
   - [x] 概念
   - [x] ID3
-  - [ ] C4.5
-  - [ ] CART
+  - [x] C4.5
+  - [x] CART
+    - [x] CART 分类树
+    - [x] CART 回归树 
+
+- [] GBDT
