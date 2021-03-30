@@ -9,4 +9,5 @@
     - [x] CART 分类树
     - [x] CART 回归树 
 
-- [] GBDT
+- [x] GBDT
+- [] XGBoost
