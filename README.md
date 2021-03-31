@@ -11,3 +11,5 @@
 
 - [x] GBDT
 - [] XGBoost
+- [] lightGBM
+- [] FM & FFM
